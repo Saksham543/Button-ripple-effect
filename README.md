@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio website created using html, css and js
+# Button Ripple effect
+Button ripple effect made using html and css
